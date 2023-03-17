@@ -4,8 +4,9 @@
 
 #include<stdio.h>
 
-/*
+/**
  *main - a c program that picks a random number and execute it
+ *Return: ALWAYS SUCCESS
  */
 
 /*
