@@ -9,10 +9,15 @@
 int main(void)
 {
 	char low;
+	char  B;
 
-	for ((low = 'a'; low <= 'z'; low++); (low = 'A'; low <= 'Z'; low++))
+	for (low = 'a'; low <= 'z'; low++)
 	{
 		putchar(low);
+	}
+	for (B = 'A'; B <= 'Z'; B++)
+	{
+		putchar(B);
 	}
 	putchar('\n');
 
