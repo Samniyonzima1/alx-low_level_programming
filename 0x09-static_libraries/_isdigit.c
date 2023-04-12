@@ -1,0 +1,5 @@
+#include"main.c"
+
+int _isdigit(int c)
+{
+}
