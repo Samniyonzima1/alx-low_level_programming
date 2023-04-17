@@ -1,4 +1,3 @@
-#include<stdio.h>
 #include"dog.h"
 
 /**
@@ -8,7 +7,7 @@
  * @age: third variable
  * @owner: last variable
  *
- * Return: nothing
+ * Return: void
  */
 
 void init_dog(struct dog *d, char *name, float age, char *owner)
