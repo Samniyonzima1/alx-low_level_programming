@@ -1,3 +1,5 @@
+#ifndef MY_HEADER_FILE_H
+#define MY_HEADER_FILE_H
 /**
  * struct dog - my new structure
  * @name: first member
@@ -13,3 +15,4 @@ struct dog
 	float age;
 	char *owner;
 };
+#endif
