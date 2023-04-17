@@ -1,8 +1,9 @@
+#include<stdio.h>
 #include"dog.h"
 
 /**
  * init_dog - initialize my varibles
- * @d: one variable
+ * @d: function
  * @name: second variable
  * @age: third variable
  * @owner: last variable
